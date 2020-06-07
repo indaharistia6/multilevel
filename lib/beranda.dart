@@ -1,6 +1,5 @@
 import  'package:flutter/material.dart'; 
 
-import './detail_akun.dart';
 
 class MyHomePage extends StatelessWidget {
   @override
